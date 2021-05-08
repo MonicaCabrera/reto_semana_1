@@ -17,3 +17,25 @@ Ventajas de la informática en la nube en comparación con entornos físicos.
  
  
 <p> hola </p>
+
+
+
+
+¿QUE ES AZURE?
+![image](https://user-images.githubusercontent.com/83620226/117554874-f83aa600-b01f-11eb-9315-9957456b4a80.png)
+Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
+
+La plataforma Azure está compuesta por más de 200 productos y servicios en la nube diseñados para ayudarle a dar vida a nuevas soluciones que permitan resolver las dificultades actuales y crear el futuro. Cree, ejecute y administre aplicaciones en varias nubes, en el entorno local y en el perímetro, con las herramientas y los marcos que prefiera.
+
+En el portal Microsoft Azure existen diferentes servicios de infraestructura y de plataforma para que puedas “montar” los servicios que necesites de manera sencilla, con unos cuántos clics. En tu portal dispones de un botón [New +] y a partir de ahí, sólo tienes que elegir la región de los datacenter donde estará tu servicio y, a continuación, el tipo de servicio con sus características. Por ejemplo, en el caso de querer crear una máquina virtual podrías seleccionar el tipo de máquina como Windows Server 2016 Datacenter, a continuación, rellenar todos sus características (espacio de disco, RAM…). En este proceso de creación, se define un nombre de usuario y contraseña específica para poder iniciar sesión en esta máquina virtual.
+
+Entre los servicios, dispones de infraestructuras (IaaS: almacenamiento, redes, máquinas virtuales…) y plataformas (PaaS: bases de datos de alta disponibilidad SQL, CMS para desarrollo de web, backend para aplicaciones móviles…). Son compatibles con todo tipo de tecnología: bases de datos Oracle, Linux, php, iOs, My SQL, Android, php…
+
+Estos servicios están garantizados con una disponibilidad del 99.99%, y en caso de fallo en disponibilidad superior, Microsoft se compromete a indemnizar por los daños. Además, cuenta con todas las certificaciones en materia seguridad y protección de datos. 
+
+¿CUANDO USAR MICROSOFT AZURE?
+
+1. En el despliegue de una solución en la que el incremento de uso va a ser exponencial (o desconocido) y no podemos definir con garantías el pico de demanda máximo.
+2. Cuando sabes que la demanda del servicio va a fluctuar en el tiempo.
+3. En entornos de desarrollo o pruebas que posteriormente podrían seguirse utilizando o no, o que pueden “apagarse” puntualmente y después volverse a activar.
+
