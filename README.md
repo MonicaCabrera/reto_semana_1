@@ -1,13 +1,18 @@
 # Informática en la nube
 
+
+### ¿Qué es la nube?
+
 tiposdenubes
 
 
-Dentro de la nube pública, existen diferentes modelos de servicios en la nube, los cuales definen los diferentes niveles de responsabilidad compartida que tienen el proveedor de nube y su respectivo inquilino. Estos se dividen en tres, y son:
-- aaaa
+Dentro de la nube pública, existen diferentes **modelos de servicios en la nube**, los cuales definen los diferentes niveles de responsabilidad compartida que tienen el proveedor de nube y su respectivo inquilino. Estos se dividen en tres, y son:
+- **IaaS**, o Infrastructure as a Service.
+- **PaaS**, o Platform as a Service.
+- **Saas**, o Software as a Service.
 
 
-La informática en la nube cuenta con varias ventajas en comparación con los entornos físicos, algunas de estas son las siguientes:
+La informática en la nube cuenta con varias **ventajas** en comparación con los entornos físicos, entre ellas:
 - **Alta disponibilidad.** La experiencia que se ofrece al usuario al momento de utilizar aplicaciones en la nube es continua, por lo que no hay un tiempo de inactividad perceptible que pueda afectar en los parámetros del contrato de nivel de servicio elegido.
 - **Escalabilidad.** Aumenta la capacidad de proceso para adaptarse a las necesidades de rendimiento. Existen dos maneras de lograr esto: mediante la escalabilidad vertical o la escalabilidad horizontal (o ambas). La escalabilidad vertical hace crecer el hardware utilizando uno más potente, como un disco duro una memoria; es fácil de implementar y no implica riesgos para el software. Por otro lado, la escalabilidad horizontal utiliza varios servidores gestionados desde un servidor primario que permita que trabajen en conjunto como un todo. Este método soporta la alta disponibilidad y un crecimiento ilimitado debido a que es posible la adición de nuevos servidores si son requeridos.
 - **Elasticidad.** Las aplicaciones basadas en la nube permiten el escalado automático para disponer de los recursos necesarios.
