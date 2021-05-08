@@ -29,6 +29,9 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 
 En el portal Microsoft Azure existen diferentes servicios de infraestructura y de plataforma para que puedas “montar” los servicios que necesites de manera sencilla, con unos cuántos clics. En tu portal dispones de un botón [New +] y a partir de ahí, sólo tienes que elegir la región de los datacenter donde estará tu servicio y, a continuación, el tipo de servicio con sus características. Por ejemplo, en el caso de querer crear una máquina virtual podrías seleccionar el tipo de máquina como Windows Server 2016 Datacenter, a continuación, rellenar todos sus características (espacio de disco, RAM…). En este proceso de creación, se define un nombre de usuario y contraseña específica para poder iniciar sesión en esta máquina virtual.
 
+![image](https://user-images.githubusercontent.com/83620226/117554969-ba8a4d00-b020-11eb-871a-fcc5613f5757.png)
+
+
 Entre los servicios, dispones de infraestructuras (IaaS: almacenamiento, redes, máquinas virtuales…) y plataformas (PaaS: bases de datos de alta disponibilidad SQL, CMS para desarrollo de web, backend para aplicaciones móviles…). Son compatibles con todo tipo de tecnología: bases de datos Oracle, Linux, php, iOs, My SQL, Android, php…
 
 Estos servicios están garantizados con una disponibilidad del 99.99%, y en caso de fallo en disponibilidad superior, Microsoft se compromete a indemnizar por los daños. Además, cuenta con todas las certificaciones en materia seguridad y protección de datos. 
