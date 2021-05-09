@@ -3,14 +3,20 @@
 
 ### ¿Qué es la nube?
 
-tiposdenubes
+La **nube** es un término que se utiliza para describir una red mundial de servidores, cada uno con una función única. La nube no es una entidad física, sino una red enorme de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores están diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeos, correo web, software de ofimática o medios sociales.
 
+Existen 2 tipos **publicas** y **privadas**.
+
+**PRIVADAS**, este tipo de nube son comunes en empresas cuya infraestructura se localiza directamente en la compañia, ellos mismos dan el mantenimiento necesario y la programan manualmente, aunque también es posible que sea alojada por terceros pero manteniendo el uso exclusivo de esta.
+
+**PUBLICAS**, aunque su nombre puede conotar una idea de que cualquiera puede acceder a ella realmente este no es el caso, sino se le conoce como publica ya que no es de uso exclusivo para nadie, por el contrario, los servicios de este tipo de nube se ofrecen a través de la red de internet pública y están disponibles para cualquiera que quiera comprarlos.
 
 Dentro de la nube pública, existen diferentes **modelos de servicios en la nube**, los cuales definen los diferentes niveles de responsabilidad compartida que tienen el proveedor de nube y su respectivo inquilino. Estos se dividen en tres, y son:
 - **IaaS**, o Infrastructure as a Service. Este modelo de servicio en la nube es el que más se parece a los servidores físicos, ya que en él un proovedor de servicios en la nube es quien mantiene actualizado el hardware, pero tanto el mantenimiento del sistema operativo como la configuración de red es responsabilidad únicamente del inquilino de la nube.
 - **PaaS**, o Platform as a Service. Este modelo es en pocas palabras un host. En él, el proovedor de servicios en la nube administra las máquinas virtuales y los recursos de red, mientras que el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje.
 - **Saas**, o Software as a Service. En este modelo de servicio en la nube, el proveedor de servicios en la nube es quien administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones; el inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por su proveedor de servicios en la nube. 
 
+**HÍBRIDA**, Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas. Puede referirse a cualquier combinación de soluciones de nube que funcionen conjuntamente en entornos locales y externos para proporcionar servicios de informática de nube a una empresa. Los proveedores de servicios de nube pueden proporcionar opciones tanto de nube privada como pública en un servicio de nube híbrida, y la nube privada se puede alojar de forma local o externa.
 
 La imagen que se muestra a continuación explica de manera más concisa los servicios que puede ejecutar cada uno de los modelos explicados.
 
