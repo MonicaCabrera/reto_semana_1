@@ -7,10 +7,14 @@ tiposdenubes
 
 
 Dentro de la nube pública, existen diferentes **modelos de servicios en la nube**, los cuales definen los diferentes niveles de responsabilidad compartida que tienen el proveedor de nube y su respectivo inquilino. Estos se dividen en tres, y son:
-- **IaaS**, o Infrastructure as a Service.
-- **PaaS**, o Platform as a Service.
-- **Saas**, o Software as a Service.
+- **IaaS**, o Infrastructure as a Service. Este modelo de servicio en la nube es el que más se parece a los servidores físicos, ya que en él un proovedor de servicios en la nube es quien mantiene actualizado el hardware, pero tanto el mantenimiento del sistema operativo como la configuración de red es responsabilidad únicamente del inquilino de la nube.
+- **PaaS**, o Platform as a Service. Este modelo es en pocas palabras un host. En él, el proovedor de servicios en la nube administra las máquinas virtuales y los recursos de red, mientras que el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje.
+- **Saas**, o Software as a Service. En este modelo de servicio en la nube, el proveedor de servicios en la nube es quien administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones; el inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por su proveedor de servicios en la nube. 
 
+
+La imagen que se muestra a continuación explica de manera más concisa los servicios que puede ejecutar cada uno de los modelos explicados.
+
+![image](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/fundamental-azure-concepts/media/iaas-paas-saas.png)
 
 La informática en la nube cuenta con varias **ventajas** en comparación con los entornos físicos, entre ellas:
 - **Alta disponibilidad.** La experiencia que se ofrece al usuario al momento de utilizar aplicaciones en la nube es continua, por lo que no hay un tiempo de inactividad perceptible que pueda afectar en los parámetros del contrato de nivel de servicio elegido.
