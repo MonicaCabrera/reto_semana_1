@@ -1,5 +1,5 @@
 # Informática en la nube
-![image](https://www.redix.com.br/uploads/solucoes/blocos/-5c93770d1395e.png)
+<center>![image](https://www.redix.com.br/uploads/solucoes/blocos/-5c93770d1395e.png)</center>
 
 
 ### ¿Qué es la nube?
