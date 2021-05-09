@@ -6,7 +6,7 @@
 
 La **nube** es un término que se utiliza para describir una red mundial de servidores, cada uno con una función única. La nube no es una entidad física, sino una red enorme de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores están diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeos, correo web, software de ofimática o medios sociales.
 
-Existen 3 tipos **publicas**, **privadas** e **híbridas**.
+Existen 3 tipos **públicas**, **privadas** e **híbridas**.
 <div style="text-align:center"><img src="https://www.redix.com.br/uploads/solucoes/blocos/-5c93770d1395e.png" /></div>
 
 - **Privadas**. Este tipo de nube son comunes en empresas cuya infraestructura se localiza directamente en la compañia, ellos mismos dan el mantenimiento necesario y la programan manualmente, aunque también es posible que sea alojada por terceros pero manteniendo el uso exclusivo de esta.
