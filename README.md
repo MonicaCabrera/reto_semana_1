@@ -1,4 +1,5 @@
 # Informática en la nube
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redix.com.br%2Fsolucoes%2Fcloud-nuvem-publica-hibrida-privada-gestao-ti&psig=AOvVaw3fbggTYuE_jZ5M_E98QbHj&ust=1620610206402000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDRv9K5u_ACFQAAAAAdAAAAABAS)
 
 
 ### ¿Qué es la nube?
