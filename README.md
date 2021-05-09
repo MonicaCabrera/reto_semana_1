@@ -16,11 +16,11 @@ Dentro de la nube pública, existen diferentes **modelos de servicios en la nube
 - **PaaS**, o Platform as a Service. Este modelo es en pocas palabras un host. En él, el proovedor de servicios en la nube administra las máquinas virtuales y los recursos de red, mientras que el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje.
 - **Saas**, o Software as a Service. En este modelo de servicio en la nube, el proveedor de servicios en la nube es quien administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones; el inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por su proveedor de servicios en la nube. 
 
-**HÍBRIDA**, Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas. Puede referirse a cualquier combinación de soluciones de nube que funcionen conjuntamente en entornos locales y externos para proporcionar servicios de informática de nube a una empresa. Los proveedores de servicios de nube pueden proporcionar opciones tanto de nube privada como pública en un servicio de nube híbrida, y la nube privada se puede alojar de forma local o externa.
-
 La imagen que se muestra a continuación explica de manera más concisa los servicios que puede ejecutar cada uno de los modelos explicados.
 
 ![image](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/fundamental-azure-concepts/media/iaas-paas-saas.png)
+
+**HÍBRIDA**, Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas. Puede referirse a cualquier combinación de soluciones de nube que funcionen conjuntamente en entornos locales y externos para proporcionar servicios de informática de nube a una empresa. Los proveedores de servicios de nube pueden proporcionar opciones tanto de nube privada como pública en un servicio de nube híbrida, y la nube privada se puede alojar de forma local o externa.
 
 La informática en la nube cuenta con varias **ventajas** en comparación con los entornos físicos, entre ellas:
 - **Alta disponibilidad.** La experiencia que se ofrece al usuario al momento de utilizar aplicaciones en la nube es continua, por lo que no hay un tiempo de inactividad perceptible que pueda afectar en los parámetros del contrato de nivel de servicio elegido.
