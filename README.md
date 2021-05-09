@@ -9,9 +9,9 @@ La **nube** es un término que se utiliza para describir una red mundial de serv
 Existen 3 tipos **publicas**, **privadas** e **híbridas**.
 <div style="text-align:center"><img src="https://www.redix.com.br/uploads/solucoes/blocos/-5c93770d1395e.png" /></div>
 
-**PRIVADAS**, este tipo de nube son comunes en empresas cuya infraestructura se localiza directamente en la compañia, ellos mismos dan el mantenimiento necesario y la programan manualmente, aunque también es posible que sea alojada por terceros pero manteniendo el uso exclusivo de esta.
+- **Privadas**. Este tipo de nube son comunes en empresas cuya infraestructura se localiza directamente en la compañia, ellos mismos dan el mantenimiento necesario y la programan manualmente, aunque también es posible que sea alojada por terceros pero manteniendo el uso exclusivo de esta.
 
-**PUBLICAS**, aunque su nombre puede conotar una idea de que cualquiera puede acceder a ella realmente este no es el caso, sino se le conoce como publica ya que no es de uso exclusivo para nadie, por el contrario, los servicios de este tipo de nube se ofrecen a través de la red de internet pública y están disponibles para cualquiera que quiera comprarlos.
+- **Públicas**. Aunque su nombre puede conotar una idea de que cualquiera puede acceder a ella realmente este no es el caso, sino se le conoce como publica ya que no es de uso exclusivo para nadie, por el contrario, los servicios de este tipo de nube se ofrecen a través de la red de internet pública y están disponibles para cualquiera que quiera comprarlos.
 
 Dentro de la nube pública, existen diferentes **modelos de servicios en la nube**, los cuales definen los diferentes niveles de responsabilidad compartida que tienen el proveedor de nube y su respectivo inquilino. Estos se dividen en tres, y son:
 - **IaaS**, o Infrastructure as a Service. Este modelo de servicio en la nube es el que más se parece a los servidores físicos, ya que en él un proovedor de servicios en la nube es quien mantiene actualizado el hardware, pero tanto el mantenimiento del sistema operativo como la configuración de red es responsabilidad únicamente del inquilino de la nube.
